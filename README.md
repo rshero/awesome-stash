@@ -11,6 +11,7 @@
 
 - [Cool Sites](#cool-sites)
 - [Peak Docs](#peak-docs)
+- [Project Templates](#project-templates)
 
 ## Cool Sites
 - [Igloo](https://www.igloo.inc/)
@@ -24,3 +25,6 @@
 
 ## Peak Docs
 - [Fuma Docs](https://fumadocs.dev/)
+
+## Project Templates
+- [Better T-Stack](https://github.com/AmanVarshney01/create-better-t-stack)
