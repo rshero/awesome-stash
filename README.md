@@ -12,6 +12,7 @@
 - [Cool Sites](#cool-sites)
 - [Peak Docs](#peak-docs)
 - [Project Templates](#project-templates)
+- [Cool Finds](#cool-finds)
 
 ## Cool Sites
 - [Igloo](https://www.igloo.inc/)
@@ -30,3 +31,7 @@
 
 ## Project Templates
 - [Better T-Stack](https://github.com/AmanVarshney01/create-better-t-stack)
+
+## Cool Finds
+- [Terminal Trove](https://terminaltrove.com/) 
+  Find cool cli/tui tools
