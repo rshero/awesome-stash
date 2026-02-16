@@ -38,6 +38,6 @@
   Find cool cli/tui tools
 
 ## AI Tools
-  ## Design
+  ### Design
   - [Aura](https://www.aura.build/)
   - [Variant](https://variant.com/)
