@@ -13,6 +13,7 @@
 - [Peak Docs](#peak-docs)
 - [Project Templates](#project-templates)
 - [Cool Finds](#cool-finds)
+- [AI Tools](#ai-tools)
 
 ## Cool Sites
 - [Igloo](https://www.igloo.inc/)
@@ -35,3 +36,8 @@
 ## Cool Finds
 - [Terminal Trove](https://terminaltrove.com/) 
   Find cool cli/tui tools
+
+## AI Tools
+  ## Design
+  - [Aura](https://www.aura.build/)
+  - [Variant](https://variant.com/)
