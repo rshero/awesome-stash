@@ -36,6 +36,7 @@
 ## Cool Finds
 - [Terminal Trove](https://terminaltrove.com/) 
   Find cool cli/tui tools
+- [Delphi Tools](https://delphi.tools/) A collection of small, low stakes and low effort tools
 
 ## AI Tools
   ### Design
