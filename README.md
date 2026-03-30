@@ -40,5 +40,6 @@
 
 ## AI Tools
   ### Design
-  - [Aura](https://www.aura.build/)
-  - [Variant](https://variant.com/)
+  - [Aura](https://www.aura.build/) - Ai site builder
+  - [Variant](https://variant.com/) - Scroll design ideas
+  - [Loftly](https://www.loftlyy.com/) - Discover real-world brand identities
